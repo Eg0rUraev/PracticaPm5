@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\glavnwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\glavnwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\clglavnwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\clglavnwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\regwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\regwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\regwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\regwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\bidwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\bidwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\bidwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\bidwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\clientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\clientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\employeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\employeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\glavnwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\glavnwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\typewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\typewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\clientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\clientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\clglavnwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\clglavnwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\razrwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\razrwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\razrwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\razrwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\userswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\userswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\userswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\userswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\checkswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\checkswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\employeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\employeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\sparepartwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\sparepartwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\servicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\servicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\checkswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\checkswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\servicewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\servicewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\sparepartwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\sparepartwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|c:\\users\\3loqic\\source\\repos\\practicabd\\practicabd\\typewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC7C703-183A-4F4A-A503-731B9BCB5B5A}|PracticaBd\\PracticaBd.csproj|solutionrelative:practicabd\\typewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 384,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\RegWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PracticaBd\\RegWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\RegWindow.xaml.cs",
+              "RelativeToolTip": "PracticaBd\\RegWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:49:17.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\RegWindow.xaml",
+              "RelativeDocumentMoniker": "PracticaBd\\RegWindow.xaml",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\RegWindow.xaml",
+              "RelativeToolTip": "PracticaBd\\RegWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T11:46:29.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClglavnWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\ClglavnWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PracticaBd\\ClglavnWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\ClglavnWindow.xaml.cs",
+              "RelativeToolTip": "PracticaBd\\ClglavnWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:25:13.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClglavnWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\ClglavnWindow.xaml",
+              "RelativeDocumentMoniker": "PracticaBd\\ClglavnWindow.xaml",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\ClglavnWindow.xaml",
+              "RelativeToolTip": "PracticaBd\\ClglavnWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T11:24:09.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RazrWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\RazrWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PracticaBd\\RazrWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\RazrWindow.xaml.cs",
+              "RelativeToolTip": "PracticaBd\\RazrWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:21:18.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RazrWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\RazrWindow.xaml",
+              "RelativeDocumentMoniker": "PracticaBd\\RazrWindow.xaml",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\RazrWindow.xaml",
+              "RelativeToolTip": "PracticaBd\\RazrWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T11:19:04.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChecksWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\ChecksWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PracticaBd\\ChecksWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\ChecksWindow.xaml.cs",
+              "RelativeToolTip": "PracticaBd\\ChecksWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:37:43.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SparePartWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\SparePartWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PracticaBd\\SparePartWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\SparePartWindow.xaml.cs",
+              "RelativeToolTip": "PracticaBd\\SparePartWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:36:21.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServiceWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\ServiceWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PracticaBd\\ServiceWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\ServiceWindow.xaml.cs",
+              "RelativeToolTip": "PracticaBd\\ServiceWindow.xaml.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAlwFYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:36:45.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\UsersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PracticaBd\\UsersWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\UsersWindow.xaml.cs",
+              "RelativeToolTip": "PracticaBd\\UsersWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:28:45.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TypeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\TypeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PracticaBd\\TypeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\TypeWindow.xaml.cs",
+              "RelativeToolTip": "PracticaBd\\TypeWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwv3wAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:05:00.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BidWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\BidWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PracticaBd\\BidWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\BidWindow.xaml.cs",
+              "RelativeToolTip": "PracticaBd\\BidWindow.xaml.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAtwGcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:28:00.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\ClientWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PracticaBd\\ClientWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\ClientWindow.xaml.cs",
+              "RelativeToolTip": "PracticaBd\\ClientWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:48:48.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\EmployeeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PracticaBd\\EmployeeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\EmployeeWindow.xaml.cs",
+              "RelativeToolTip": "PracticaBd\\EmployeeWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:31:13.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TypeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\TypeWindow.xaml",
+              "RelativeDocumentMoniker": "PracticaBd\\TypeWindow.xaml",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\TypeWindow.xaml",
+              "RelativeToolTip": "PracticaBd\\TypeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-05T06:01:45.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\UsersWindow.xaml",
+              "RelativeDocumentMoniker": "PracticaBd\\UsersWindow.xaml",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\UsersWindow.xaml",
+              "RelativeToolTip": "PracticaBd\\UsersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-05T06:02:06.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SparePartWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\SparePartWindow.xaml",
+              "RelativeDocumentMoniker": "PracticaBd\\SparePartWindow.xaml",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\SparePartWindow.xaml",
+              "RelativeToolTip": "PracticaBd\\SparePartWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-05T06:01:19.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChecksWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\ChecksWindow.xaml",
+              "RelativeDocumentMoniker": "PracticaBd\\ChecksWindow.xaml",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\ChecksWindow.xaml",
+              "RelativeToolTip": "PracticaBd\\ChecksWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-05T06:00:54.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\ServiceWindow.xaml",
+              "RelativeDocumentMoniker": "PracticaBd\\ServiceWindow.xaml",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\ServiceWindow.xaml",
+              "RelativeToolTip": "PracticaBd\\ServiceWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-05T06:00:27.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BidWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\BidWindow.xaml",
+              "RelativeDocumentMoniker": "PracticaBd\\BidWindow.xaml",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\BidWindow.xaml",
+              "RelativeToolTip": "PracticaBd\\BidWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-05T06:00:04.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\ClientWindow.xaml",
+              "RelativeDocumentMoniker": "PracticaBd\\ClientWindow.xaml",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\ClientWindow.xaml",
+              "RelativeToolTip": "PracticaBd\\ClientWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-05T05:59:46.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\EmployeeWindow.xaml",
+              "RelativeDocumentMoniker": "PracticaBd\\EmployeeWindow.xaml",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\EmployeeWindow.xaml",
+              "RelativeToolTip": "PracticaBd\\EmployeeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-05T05:59:18.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GlavnWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\GlavnWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PracticaBd\\GlavnWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\GlavnWindow.xaml.cs",
+              "RelativeToolTip": "PracticaBd\\GlavnWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:21:39.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlavnWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\GlavnWindow.xaml",
+              "RelativeDocumentMoniker": "PracticaBd\\GlavnWindow.xaml",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\GlavnWindow.xaml",
+              "RelativeToolTip": "PracticaBd\\GlavnWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-04T10:21:34.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "PracticaBd\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\DatabaseConnection.cs",
+              "RelativeToolTip": "PracticaBd\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:13:45.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PracticaBd\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\MainWindow.xaml",
+              "RelativeToolTip": "PracticaBd\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-04T10:10:19.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PracticaBd\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\3loqic\\source\\repos\\PracticaBd\\PracticaBd\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PracticaBd\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowD0AAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:10:17.457Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
